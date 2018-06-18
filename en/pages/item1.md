@@ -3,18 +3,13 @@
 
 ## Section 1
 
-Test shell script code snippet:
+Test code snippet:
 
-```console
-foo@bar:~$ whoami
-foo
 ```
-
-Test R code snippet:
-
-```r
-summary(cars$dist)
-summary(cars$speed)
+x <- 1:10
+y <- round(rnorm(10, x, 1), 2)
+df <- data.frame(x, y)
+df
 ```
 
 Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
