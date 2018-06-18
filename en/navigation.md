@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Test Genomics Pipeline Wiki
 
 
 <!--
@@ -24,7 +24,22 @@
 
 <!-- A more complex navigation example: ------------------------------------------>
 
-[Illumina to FASTQ](pages/item1.md)
+[Menu Item 1]()
+
+  * # SubMenu Heading 1
+  * [SubMenu Item 1](pages/subitem1.md)
+  * [SubMenu Item 2](pages/subitem2.md)
+  - - - -
+  * # SubMenu Heading 2
+  * [SubMenu Item 3](pages/subitem3.md)
+  - - - -
+  * # SubMenu Heading 3
+  * [SubMenu Item 3](pages/subitem3.md)
+
+[Menu Item 3](pages/item3.md)
+
+
+<!-- [Illumina to FASTQ](pages/item1.md)
 
 [QC & Alignment]()
   * # QC and Trimming
@@ -34,13 +49,13 @@
   * # Alignment
   * [Aginment with Reference](pages/subitem3.md)
   * [Aginment without Reference](pages/subitem4.md)
-<!--   - - - -
+  - - - -
   * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem4.md) -->
+  * [SubMenu Item 3](pages/subitem4.md)
 
 [Menu Item 3](pages/item3.md)
 
-[Menu Item 4](pages/item4.md)
+[Menu Item 4](pages/item4.md) -->
 
 
 <!--
