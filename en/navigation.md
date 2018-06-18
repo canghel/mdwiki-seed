@@ -24,17 +24,20 @@
 
 <!-- A more complex navigation example: ------------------------------------------>
 
+[Illumina to FASTQ](pages/item1.md)
+
 [Menu Item 1]()
 
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
+  * # QC & Alignment
+  * [FastQC](pages/subitem1.md)
+  * [Trimming](pages/subitem2.md)
   - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/subitem3.md)
+  * # Alignment
+  * [Alignment with Reference](pages/subitem3.md)
+  * [Alignment without Reference](pages/subitem4.md)
   - - - -
   * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
+  * [SubMenu Item 3](pages/subitem4.md)
 
 [Menu Item 3](pages/item3.md)
 
@@ -47,8 +50,8 @@
   * [Trimming](pages/subitem2.md)
   - - - -
   * # Alignment
-  * [Aginment with Reference](pages/subitem3.md)
-  * [Aginment without Reference](pages/subitem4.md)
+  * [Alignment with Reference](pages/subitem3.md)
+  * [Alignment without Reference](pages/subitem4.md)
   - - - -
   * # SubMenu Heading 3
   * [SubMenu Item 3](pages/subitem4.md)
