@@ -10,14 +10,9 @@ foo@bar:~$ whoami
 foo
 ```
 
-```bash
-foo@bar:~$ whoami
-foo
-```
-
 Test R code snippet:
 
-```{r}
+```r
 summary(cars$dist)
 summary(cars$speed)
 ```
